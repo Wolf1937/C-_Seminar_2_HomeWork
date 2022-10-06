@@ -1,0 +1,15 @@
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_13/obj/Debug/net6.0/Zadacha_13.csproj.AssemblyReference.cache
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_13/obj/Debug/net6.0/Zadacha_13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_13/obj/Debug/net6.0/Zadacha_13.AssemblyInfoInputs.cache
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_13/obj/Debug/net6.0/Zadacha_13.AssemblyInfo.cs
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_13/obj/Debug/net6.0/Zadacha_13.csproj.CoreCompileInputs.cache
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_13/bin/Debug/net6.0/Zadacha_13
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_13/bin/Debug/net6.0/Zadacha_13.deps.json
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_13/bin/Debug/net6.0/Zadacha_13.runtimeconfig.json
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_13/bin/Debug/net6.0/Zadacha_13.dll
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_13/bin/Debug/net6.0/Zadacha_13.pdb
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_13/obj/Debug/net6.0/Zadacha_13.dll
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_13/obj/Debug/net6.0/refint/Zadacha_13.dll
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_13/obj/Debug/net6.0/Zadacha_13.pdb
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_13/obj/Debug/net6.0/Zadacha_13.genruntimeconfig.cache
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_13/obj/Debug/net6.0/ref/Zadacha_13.dll
