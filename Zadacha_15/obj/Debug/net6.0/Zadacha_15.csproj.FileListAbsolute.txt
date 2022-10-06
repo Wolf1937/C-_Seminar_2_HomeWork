@@ -1,0 +1,15 @@
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_15/obj/Debug/net6.0/Zadacha_15.csproj.AssemblyReference.cache
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_15/obj/Debug/net6.0/Zadacha_15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_15/obj/Debug/net6.0/Zadacha_15.AssemblyInfoInputs.cache
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_15/obj/Debug/net6.0/Zadacha_15.AssemblyInfo.cs
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_15/obj/Debug/net6.0/Zadacha_15.csproj.CoreCompileInputs.cache
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_15/bin/Debug/net6.0/Zadacha_15
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_15/bin/Debug/net6.0/Zadacha_15.deps.json
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_15/bin/Debug/net6.0/Zadacha_15.runtimeconfig.json
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_15/bin/Debug/net6.0/Zadacha_15.dll
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_15/bin/Debug/net6.0/Zadacha_15.pdb
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_15/obj/Debug/net6.0/Zadacha_15.dll
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_15/obj/Debug/net6.0/refint/Zadacha_15.dll
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_15/obj/Debug/net6.0/Zadacha_15.pdb
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_15/obj/Debug/net6.0/Zadacha_15.genruntimeconfig.cache
+/Users/krutinis/Desktop/Learn/С#/HomeWork/Seminar_2/Zadacha_15/obj/Debug/net6.0/ref/Zadacha_15.dll
